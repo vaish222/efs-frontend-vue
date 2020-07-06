@@ -28,8 +28,8 @@
               <v-container>
 
                 <v-text-field
-                  v-model="stock.customer"
-                  label="Customer"
+                  v-model="stock.cust_number"
+                  label="Customer Number"
                   required
                   type="number"
                 />
