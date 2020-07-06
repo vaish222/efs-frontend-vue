@@ -91,7 +91,7 @@
       investmentSize: 0,
       showMsg: '',
       headers: [
-        {text: 'CustomerNumber', sortable: false, align: 'left',},
+        {text: 'Customer Number', sortable: false, align: 'left',},
         {text: 'Category', sortable: false, align: 'left',},
         {text: 'Description', sortable: false, align: 'left',},
         {text: 'Acquired_Value', sortable: false, align: 'left',},

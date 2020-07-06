@@ -90,7 +90,7 @@
       stockSize: 0,
       showMsg: '',
       headers: [
-        {text: 'CustomerNumber', sortable: false, align: 'left',},
+        {text: 'Customer Number', sortable: false, align: 'left',},
         {text: 'Symbol', sortable: false, align: 'left',},
         {text: 'Name', sortable: false, align: 'left',},
         {text: 'Share', sortable: false, align: 'left',},
