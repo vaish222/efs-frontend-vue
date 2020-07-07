@@ -35,6 +35,13 @@
                 />
 
                 <v-text-field
+                  v-model="stock.customer"
+                  label="Customer"
+                  required
+                  type="number"
+                />
+
+                <v-text-field
                   v-model="stock.symbol"
                   label="Symbol"
                   required

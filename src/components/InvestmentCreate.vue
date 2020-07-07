@@ -35,6 +35,13 @@
                 />
 
                 <v-text-field
+                  v-model="investment.customer"
+                  label="Customer"
+                  required
+                  type="number"
+                />
+
+                <v-text-field
                   v-model="investment.category"
                   label="Category"
                   required
